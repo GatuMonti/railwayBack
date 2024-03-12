@@ -33,4 +33,3 @@ build/
 .vscode/
 
 # Ignorar el archivo application.yaml
-application.yaml
