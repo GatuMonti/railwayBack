@@ -34,7 +34,7 @@ build/
 
 # Ignorar el archivo application.yaml
 application.yaml
-applitation.properties
+application.properties
 
 # Ignorar la copnfiguracion de la base de datos local
 src/main/java/com/example/vortex_games/DatabaseConfig.java
