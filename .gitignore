@@ -33,7 +33,7 @@ build/
 .vscode/
 
 # Ignorar el archivo application.yaml
-application.yaml
+config.properties
 
 
 # Ignorar la copnfiguracion de la base de datos local
