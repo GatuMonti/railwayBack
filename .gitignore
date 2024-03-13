@@ -33,6 +33,7 @@ build/
 .vscode/
 
 # Ignorar el archivo application.yaml
-src/main/resources/**
+application.yaml
+application.properties
 # Ignorar la copnfiguracion de la base de datos local
 src/main/java/com/example/vortex_games/DatabaseConfig.java
